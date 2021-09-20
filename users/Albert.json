@@ -1,0 +1,12 @@
+{
+	"Name": "Albert",
+	"Age": 22,
+	"Contact": "3538740974",
+	"Company": "Microsoft",
+	"Address": {
+		"City": "bokaro",
+		"State": "jharkhand",
+		"Country": "india",
+		"Pincode": 125213
+	}
+}

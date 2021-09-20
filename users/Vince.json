@@ -1,0 +1,12 @@
+{
+	"Name": "Vince",
+	"Age": 20,
+	"Contact": "6546434563",
+	"Company": "tcs",
+	"Address": {
+		"City": "dehradun",
+		"State": "uttrakhand",
+		"Country": "india",
+		"Pincode": 234523
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"Name": "Neo",
+	"Age": 27,
+	"Contact": "8789635345",
+	"Company": "Facebook",
+	"Address": {
+		"City": "mumbai",
+		"State": "maharashtra",
+		"Country": "india",
+		"Pincode": 552664
+	}
+}

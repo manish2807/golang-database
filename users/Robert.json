@@ -1,0 +1,12 @@
+{
+	"Name": "Robert",
+	"Age": 21,
+	"Contact": "3452342325",
+	"Company": "Infosys",
+	"Address": {
+		"City": "varanasi",
+		"State": "uttar pradesh",
+		"Country": "india",
+		"Pincode": 542522
+	}
+}

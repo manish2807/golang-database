@@ -1,0 +1,12 @@
+{
+	"Name": "Paul",
+	"Age": 25,
+	"Contact": "2342348634",
+	"Company": "Google",
+	"Address": {
+		"City": "new delhi",
+		"State": "delhi",
+		"Country": "india",
+		"Pincode": 245124
+	}
+}
